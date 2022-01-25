@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hagenbrandt/puppeteer-playground/issues"
   },
-  "homepage": "https://github.com/hagenbrandt/puppeteer-playground#readme"
+  "homepage": "https://github.com/hagenbrandt/puppeteer-playground#readme",
+  "dependencies": {
+    "puppeteer": "^13.1.2"
+  }
 }
